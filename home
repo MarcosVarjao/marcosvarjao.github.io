@@ -1,0 +1,22 @@
+mkdir -p assets
+printf '%s\n' '<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Meu Site no GitHub Pages</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;max-width:720px;margin:48px auto;padding:0 16px;line-height:1.6}
+    h1{margin-bottom:0} small{color:#666}
+    a{text-decoration:none}
+    .card{border:1px solid #ddd;border-radius:12px;padding:16px}
+  </style>
+</head>
+<body>
+  <h1>Olá, mundo! <small>GitHub Pages</small></h1>
+  <p>Site publicado com GitHub Pages. Esta é a página inicial.</p>
+  <div class="card">
+    <p>Edite este arquivo <code>index.html</code> para começar.</p>
+  </div>
+</body>
+</html>' > index.html
