@@ -1,0 +1,17 @@
+body {
+  font-family: system-ui, Arial, sans-serif;
+  max-width: 720px;
+  margin: 40px auto;
+  padding: 0 16px;
+  line-height: 1.6;
+}
+nav {
+  margin-bottom: 20px;
+}
+nav a {
+  margin-right: 12px;
+  text-decoration: none;
+}
+nav a:hover {
+  text-decoration: underline;
+}
