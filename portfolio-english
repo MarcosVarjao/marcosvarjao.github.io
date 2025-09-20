@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - Marcos Varjão</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        <body>
+
+    <img src="captura_181_photogrid.png" alt="Photo of Marcos Paulo" style="width:150px; height:auto; border-radius:50%; display:block; margin:0 auto 20px;">
+
+    <h1>Marcos Paulo</h1>
+    <h2>Productivity, Personal Management & Focus Mentor</h2>
+    <p>I help professionals, entrepreneurs, and creators organize habits, routines, and workflows to transform focus, performance, and results in their daily lives, building simple and functional systems that adapt to real life.</p>
+
+        h1, h2 {
+            color: #2c3e50;
+        }
+        h1 {
+            margin-bottom: 5px;
+        }
+        h2 {
+            margin-top: 30px;
+            margin-bottom: 10px;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+        .experience, .education, .skills {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Marcos Paulo</h1>
+    <h2>Productivity, Personal Management & Focus Mentor</h2>
+    <p>I help professionals, entrepreneurs, and creators organize habits, routines, and workflows to transform focus, performance, and results in their daily lives, building simple and functional systems that adapt to real life.</p>
+
+    <h2>Professional Experience</h2>
+    <div class="experience">
+        <p><strong>Personal Productivity & Management Mentorship – Own Project</strong> (2025 – Present)</p>
+        <p>Mentorship focused on optimizing time, focus, and performance in online businesses and personal projects.</p>
+
+        <p><strong>Digital Marketing & Project Management – Freelance</strong> (2020–2022, 2025)</p>
+        <p>Creation and management of digital strategies for personal projects, including workflow organization and productivity.</p>
+
+        <p><strong>English & Computer Science Teacher – Freelance</strong> (2013, 2021)</p>
+        <p>Individual and personalized lessons for students of different levels, with a focus on practical results.</p>
+
+        <p><strong>Leadership in Civil Construction – Various Roles</strong> (2015–2020)</p>
+        <p>Experience in supervising teams, painting, furniture assembly, pallet rack structures, and finishing works.</p>
+    </div>
+
+    <h2>Education & Certifications</h2>
+    <div class="education">
+        <p><strong>Agile Project Management – Google</strong> (2025)</p>
+        <p><strong>Fluent English – Skill</strong> (2007–2009)</p>
+    </div>
+
+    <h2>Skills & Competencies</h2>
+    <div class="skills">
+        <ul>
+            <li>Productivity and focus management</li>
+            <li>Organization of routines and workflows</li>
+            <li>Planning of personal and professional projects</li>
+            <li>Digital marketing and online project management</li>
+            <li>Teaching and communication</li>
+        </ul>
+    </div>
+
+</body>
+</html>
